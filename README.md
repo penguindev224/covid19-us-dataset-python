@@ -1,6 +1,6 @@
 # covid19-us-dataset-python
 <p>
-Generate a cvs file to list the number of of 'Date', 'Cases', 'Deaths', 'Recoveries' in US from two sources
+Generate a cvs file to list the dataset of of 'Date', 'Cases', 'Deaths', 'Recoveries' in US from two sources
 </p>
 
 ## Recommended Running Environment 
