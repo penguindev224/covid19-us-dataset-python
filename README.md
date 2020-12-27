@@ -1,6 +1,6 @@
 # covid19-us-dataset-python
 <p>
-Generate a csv file to list the dataset of of 'Date', 'Cases', 'Deaths', 'Recoveries' in US from two sources
+Generate a csv file to list the dataset of of 'Date', 'Cases', 'Deaths', 'Recoveries' regarding to covid-19 pandemic in US from two sources
 </p>
 
 ## Recommended Running Environment 
