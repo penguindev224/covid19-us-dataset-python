@@ -14,5 +14,5 @@ Download the file and type the command "py covid19-us-dataset.py" in the command
 
 ## Notice
 <p>
-This file is for practicing purpose. Please do not refer to this file as a vaild source.
+This file is for practicing purpose. Please do not recognize it as a vaild source.
 </p>
