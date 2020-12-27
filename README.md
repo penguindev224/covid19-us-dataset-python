@@ -7,7 +7,7 @@ Generate a csv file to list the dataset of of 'Date', 'Cases', 'Deaths', 'Recove
 <p>
 Python version: python-3.8.7-amd64, with pip repository installed
 
-## Running Command
+## Running Procedure
 <p>
 Download the file and type the command "py covid19-us-dataset.py" in the command prompt. The command should be committed in the directory which the file locates.
 </p>
